@@ -2,7 +2,7 @@
 Gives the ability to share a post on Facebook from other site and get a callback.
 
 ## Requirements
-- NodeJS - node v8.11.3 (npm v5.6.0) or Higher
+- Node.js - node v8.11.3 (npm v5.6.0) or Higher
 
 ## Getting started
 - Run `npm install` to install dependencies
